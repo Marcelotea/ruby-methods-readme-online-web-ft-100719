@@ -9,8 +9,8 @@ greeting
 greeting
 
 def ayyyyy
-puts "hello world"
+puts "ayyyyy"
 end
 
 
-ayyyy
+ayyyyy
