@@ -8,9 +8,9 @@ greeting
 greeting
 greeting
 
-def lol
+def ayyyyy
 puts "hello world"
 end
 
 
-lol
+ayyyy
