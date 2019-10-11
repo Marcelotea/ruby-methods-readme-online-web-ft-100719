@@ -8,6 +8,7 @@ greeting
 greeting
 greeting
 
+example
 def lol
 puts "hello world"
 end
